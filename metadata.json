@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Pro",
+  "description": "Allo Engineering Take-Home Exercise: Real-time inventory reservation and order fulfillment platform under high concurrency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
